@@ -8,4 +8,7 @@ def something() :
 
 
 
+
+print("RUnning Script ")
+
 main()
